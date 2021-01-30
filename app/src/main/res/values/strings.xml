@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BEN\'S NEWS</string>
+    <string name="choose_news">CHOOSE YOUR NEWS</string>
+    <string name="design">Top 10 new design softwares!</string>
+    <string name="marketing">Try this new marketing trick!</string>
+    <string name="politics">Trump to win US election 2020?</string>
+    <string name="sports">Could Arsenal win the league 20/21?</string>
+    <string name="technology">10 exciting new and upcoming apps!</string>
+    <string name="travel">Book summer 2021 holidays now!</string>
+
+    <string name="refresh">Refresh feed!</string>
+    <string name="log_xml">Refresh feed!</string>
+    <string name="profile_xml">Refresh feed!</string>
+    <string name="settings_xml">Refresh feed!</string>
+    <string name="linked">Refresh feed!</string>
+
+
+    <string name="enterEmail">Email</string>
+    <string name="enterPassword">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpButton">Create account</string>
+    <string name="signUpFinalButton">Sign Up</string>
+    <string name="registerButton">Sign Up</string>
+
+    <string name="choice1">Business</string>
+    <string name="choice2">Entertainment</string>
+    <string name="choice3">General</string>
+    <string name="choice4">Health</string>
+    <string name="choice5">Science</string>
+    <string name="choice6">Sports</string>
+    <string name="choice7">Technology</string>
+    <string name="finalisePreferences">Done</string>
+
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+
+
+    <string name="welText">Your article!</string>
+</resources>

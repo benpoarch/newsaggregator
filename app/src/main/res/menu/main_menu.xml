@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Refresh"
+        android:id="@+id/refresh_action"
+        android:icon="@drawable/refresh"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/my_news_action"
+        android:title="My news"
+        android:icon="@drawable/mynews"
+        app:showAsAction="always">
+
+    </item>
+
+    <item
+        android:id="@+id/profile_action"
+        android:title="Login"
+        android:icon="@drawable/login"
+        app:showAsAction="always">
+
+    </item>
+
+    <item
+        android:id="@+id/logout_action"
+        android:title="Logout"
+        android:icon="@drawable/logout"
+        app:showAsAction="always">
+
+    </item>
+
+
+
+</menu>
